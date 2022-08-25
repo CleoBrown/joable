@@ -2,21 +2,21 @@
 
 ## Screenshots
 
-**Homepage**
+1. **Homepage**
 ![Joable Homepage](./imgs/joable_home.png)
 
 ---
 
-**Search**
+2. **Search**
 ![Joable Search](./imgs/joable_search.png)
 
 ---
 
-**Dashboard**
+3. **Dashboard**
 ![Joable Dashboard](./imgs/joable_dashboard.png)
 
 ---
 
-**Modal**
+4. **Modal**
 ![Joable Modal](./imgs/joable_modal.png)
 
